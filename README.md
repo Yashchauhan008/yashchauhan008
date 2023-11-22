@@ -23,11 +23,6 @@ Passionate **Web Devloper** | Open Source Enthusiast | Good UI Designer
 
 ---
 
-### My GitHub Stats
-
-![Your GitHub stats](Your GitHub Stats Image URL)
-
----
 
 ### Let's Connect
 
