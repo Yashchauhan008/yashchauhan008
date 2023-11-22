@@ -1,16 +1,36 @@
-### Hi there 👋
+# Yash Chauhan
 
-<!--
-**Yashchauhan008/yashchauhan008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello, I'm YASH!
 
-Here are some ideas to get you started:
+Passionate **Web Devloper** | Open Source Enthusiast | Good UI Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 📧 Yashchauhan1775@gmail.com
+
+---
+
+### About Me
+
+- 👨‍💻 pursuing B.Tech( CSE ) **from @Darshan_university**.
+- 🌱 Currently learning **GSAP , UI design**
+
+---
+
+### Skills
+
+- **Languages:** HTML , CSS , js , Nodejs , GSAP , Threejs
+- **Frameworks:** React  
+- **Tools:** VScode , Spline , Crome , Blender , Notion , Ardurino IDE
+
+---
+
+### My GitHub Stats
+
+![Your GitHub stats](Your GitHub Stats Image URL)
+
+---
+
+### Let's Connect
+
+- 📫 How to reach me: Yashchauhan1775@gmail.com
+
+---
