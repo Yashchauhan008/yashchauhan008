@@ -9,6 +9,11 @@ Passionate **Web Devloper** | Open Source Enthusiast | Good UI Designer
 | 🚀 [Portfolio](https://yash-chauhan.vercel.app/)
 
 ---
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=yashchauhan008&style=for-the-badge&color=blue" alt=""/>
+</div>
+
+---
 
 ### About Me
 
@@ -39,9 +44,7 @@ Passionate **Web Devloper** | Open Source Enthusiast | Good UI Designer
 </p>
  
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashchauhan008&style=for-the-badge&color=orange" alt=""/>
-</div>
+
 ### Let's Connect
 
 ---
