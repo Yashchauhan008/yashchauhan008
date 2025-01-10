@@ -28,11 +28,6 @@ Passionate **Web Devloper** | Open Source Enthusiast | Good UI Designer
 - **Frameworks:** React 
 - **Tools:** VScode , Spline , Crome , Blender , Notion , Ardurino IDE
 
----
-
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=yashchauhan008&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 
 ---
