@@ -1,3 +1,5 @@
+**‼ warning : If you can't own it, don't steal it. Stay original or stay away.‼**
+
 # Yash Chauhan
 
 ## 👋 Hello, I'm YASH!
