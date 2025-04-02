@@ -26,10 +26,10 @@ Passionate **Web Devloper** | Open Source Enthusiast | Good UI Designer
 
 ### Skills
 
-- **Languages:** HTML , CSS , js , Nodejs , GSAP , Threejs
+- **Languages:** HTML , CSS , js , java , c , dart
 - **Frameworks:** React , Angular , DotNet
-- **Tools:** VScode , Spline , Crome , Blender , Notion , Ardurino IDE
-
+- **Extras:** Gsap , Framer motion , Three
+- **Tools:** VScode , Spline , Chrome , Blender , Notion , Ardurino IDE
 
 
 ---
