@@ -20,10 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=yashchauhan008&style=for-the-badge&color=blue" alt="Profile Views"/>
 </div>
 
-</div>
-
 ---
-
 
 ### About Me
 
@@ -34,11 +31,10 @@
 
 ### Skills
 
-- **Languages:** HTML , CSS , js , java , c , dart
-- **Frameworks:** React , Angular , DotNet
-- **Extras:** Gsap , Framer motion , Three
-- **Tools:** VScode , Spline , Chrome , Blender , Notion , Ardurino IDE
-
+- **Languages:** HTML , CSS , JS , Java , C , Dart  
+- **Frameworks:** React , Angular , DotNet  
+- **Extras:** GSAP , Framer Motion , Three.js  
+- **Tools:** VS Code , Spline , Chrome , Blender , Notion , Arduino IDE  
 
 ---
 
@@ -47,61 +43,57 @@
 Here are some of the key projects I've worked on that showcase my skills and experience.
 
 ---
+
 ### 1. Elev8Labs - Creative Agency Portfolio
 
-<a href="[YOUR_LIVE_DEMO_URL]" target="_blank">
-  <img src="[YOUR_IMAGE_URL_HERE]" alt="Elev8Labs"/>
+<a href="https://elev8labs.in" target="_blank">
+  <img src="./elev8labs.png" alt="Elev8Labs"/>
 </a>
 
 > A stunning, fully responsive portfolio website for **Elev8Labs**, a freelance creative agency client. The project features a high-level, custom UI built from scratch with Tailwind CSS, focusing on smooth animations and a pixel-perfect user experience.
 
 | Tech Stack | `React` `Tailwind CSS` `Framer Motion` `Vite` |
 | :--- | :--- |
-| **Links** | [**Repository**]([YOUR_REPO_URL]) • [**Live Demo**]([YOUR_LIVE_DEMO_URL]) |
+| **Links** | [**Repository**](https://github.com/Yashchauhan008/elev8labs) • [**Live Demo**](https://elev8labs.in) |
 
 ---
 
 ### 2. Shanvi Enterprise - Inventory Management System
 
-<a href="[YOUR_LIVE_DEMO_URL]" target="_blank">
-  <img src="[YOUR_IMAGE_URL_HERE]" alt="Shanvi Enterprise IMS"/>
+<a href="https://shanvi001.vercel.app/" target="_blank">
+  <img src="./shanvi.png" alt="Shanvi Enterprise IMS"/>
 </a>
 
 > An enterprise-level Inventory Management System built for a freelance client, currently managing over **₹4 Crore** in assets. This full-stack MERN application features role-based access control, real-time data tracking, and is deployed on a live Hostinger VPS.
 
 | Tech Stack | `React` `Node.js` `Express` `MongoDB` `JWT` `Material-UI` `VPS` |
 | :--- | :--- |
-| **Links** | [**Repository**]([YOUR_REPO_URL]) • [**Live Demo**]([YOUR_LIVE_DEMO_URL]) |
+| **Links** | [**Repository**](https://github.com/Yashchauhan008/shanvi) • [**Live Demo**](https://shanvi001.vercel.app/) |
 
 ---
 
 ### 3. StudyBuddy / QuickLabs
 
-<a href="[YOUR_LIVE_DEMO_URL]" target="_blank">
-  <img src="[YOUR_IMAGE_URL_HERE]" alt="StudyBuddy/QuickLabs"/>
+<a href="https://studybuddy-v2.vercel.app/" target="_blank">
+  <img src="./studybuddy.png" alt="StudyBuddy/QuickLabs"/>
 </a>
 
 > An internal university platform designed to provide students with easy access to lab manuals, assignment solutions, and study materials. This project simplifies academic life for students at Darshan University.
 
 | Tech Stack | `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` |
 | :--- | :--- |
-| **Links** | [**Repository**]([YOUR_REPO_URL]) • [**Live Demo**]([YOUR_LIVE_DEMO_URL]) |
+| **Links** | [**Repository**](https://github.com/Yashchauhan008/studybuddy-v2) • [**Live Demo**](https://studybuddy-v2.vercel.app/) |
 
 ---
 
-
-
 <p align="center">
-<!--   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yashchauhan008&show_icons=true&theme=vision-friendly-dark"> -->
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchauhan008&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
- 
 
+---
 
 ### Let's Connect
 
----
-
-- 📫 How to reach me: Yashchauhan1775@gmail.com
+- 📫 How to reach me: **yashchauhan1775@gmail.com**
 
 ---
